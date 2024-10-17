@@ -1,0 +1,3 @@
+white = #e8e8e8
+light grey = #F0F0F080 |#5c5b5b80 | #414549
+dark grey = #202225
